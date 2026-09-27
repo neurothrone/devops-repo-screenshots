@@ -1,3 +1,3 @@
 # Branching strategy
 
-Short-lived branches against main.
+Short-lived branches against main, merged through pull requests.
